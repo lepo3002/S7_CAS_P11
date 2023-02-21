@@ -357,33 +357,50 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document19]
+DocumentPath=PROB_S7CAS_PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GNYTCPOA
+
 [Parameter1]
-Name=Project_Date
-Value=2023-02-02
+Name=Project_Revision
+Value=1.00
 
 [Parameter2]
-Name=Project_Designer1
-Value=Samuel Cloutier (clos2312)
-
-[Parameter3]
-Name=Project_Designer2
-Value=Olivier Lepage (lepo3002)
-
-[Parameter4]
-Name=Project_Global
-Value=S7_CAS_APP1
-
-[Parameter5]
-Name=Project_Group
-Value=clos2312-lepo3002 P11
-
-[Parameter6]
 Name=Project_Name
 Value=Pléiades
 
+[Parameter3]
+Name=Project_Group
+Value=clos2312-lepo3002 P11
+
+[Parameter4]
+Name=Project_Global
+Value=S7_CAS_PROB
+
+[Parameter5]
+Name=Project_Designer2
+Value=Olivier Lepage (lepo3002)
+
+[Parameter6]
+Name=Project_Designer1
+Value=Samuel Cloutier (clos2312)
+
 [Parameter7]
-Name=Project_Revision
-Value=1.00
+Name=Project_Date
+Value=2023-02-02
 
 [Configuration1]
 Name=Sources
@@ -786,12 +803,12 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
-OutputType9=Export Project History
-OutputName9=Export Project History
+OutputType9=Project History
+OutputName9=Project History
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
