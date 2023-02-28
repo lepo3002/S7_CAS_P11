@@ -374,33 +374,50 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GNYTCPOA
 
+[Document20]
+DocumentPath=..\98 - TEMP LIBRARY\LIB_TEMP_S7CAS.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LCVOSCSV
+
 [Parameter1]
-Name=Project_Revision
-Value=1.00
+Name=Project_Date
+Value=2023-02-02
 
 [Parameter2]
-Name=Project_Name
-Value=Pléiades
+Name=Project_Designer1
+Value=Samuel Cloutier (clos2312)
 
 [Parameter3]
-Name=Project_Group
-Value=clos2312-lepo3002 P11
+Name=Project_Designer2
+Value=Olivier Lepage (lepo3002)
 
 [Parameter4]
 Name=Project_Global
 Value=S7_CAS_PROB
 
 [Parameter5]
-Name=Project_Designer2
-Value=Olivier Lepage (lepo3002)
+Name=Project_Group
+Value=clos2312-lepo3002 P11
 
 [Parameter6]
-Name=Project_Designer1
-Value=Samuel Cloutier (clos2312)
+Name=Project_Name
+Value=Pléiades
 
 [Parameter7]
-Name=Project_Date
-Value=2023-02-02
+Name=Project_Revision
+Value=1.00
 
 [Configuration1]
 Name=Sources
@@ -803,8 +820,8 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
-OutputType9=Project History
-OutputName9=Project History
+OutputType9=Export Project History
+OutputName9=Export Project History
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0

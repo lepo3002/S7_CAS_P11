@@ -1,0 +1,543 @@
+Added Component: Designator=L6(INDM5250X66N)
+Add component (AddParameter): Name = "Assembly Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreatedBy/Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GRAMS Lib Spec"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/pa5190.500hlt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Magnetic Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L7(INDM5250X66N)
+Add component (AddParameter): Name = "Assembly Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreatedBy/Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GRAMS Lib Spec"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/pa5190.500hlt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Magnetic Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L8(INDM5250X66N)
+Add component (AddParameter): Name = "Assembly Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreatedBy/Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GRAMS Lib Spec"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/pa5190.500hlt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Magnetic Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L9(INDM5250X66N)
+Add component (AddParameter): Name = "Assembly Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreatedBy/Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GRAMS Lib Spec"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/pa5190.500hlt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Magnetic Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L10(INDM5250X66N)
+Add component (AddParameter): Name = "Assembly Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreatedBy/Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GRAMS Lib Spec"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/pa5190.500hlt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Magnetic Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L11(INDM5250X66N)
+Add component (AddParameter): Name = "Assembly Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreatedBy/Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GRAMS Lib Spec"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/pa5190.500hlt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Magnetic Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L12(INDM5250X66N)
+Add component (AddParameter): Name = "Assembly Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreatedBy/Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GRAMS Lib Spec"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/pa5190.500hlt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Magnetic Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L13(INDM5250X66N)
+Add component (AddParameter): Name = "Assembly Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreatedBy/Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GRAMS Lib Spec"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/pa5190.500hlt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Magnetic Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(TSSOP50P490X104-10N)
+Add component (AddParameter): Name = "Assembly Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreatedBy/Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GRAMS Lib Spec"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ww1.microchip.com/downloads/en/DeviceDoc/mic61300.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Magnetic Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U22(SOIC127P790X216-8N)
+Add component (AddParameter): Name = "Assembly Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreatedBy/Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GRAMS Lib Spec"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.alliancememory.com/wp-content/uploads/pdf/micron/Micron_Datasheet_N25Q032A_RevJ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Magnetic Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U23(SOP254P700X240-4N)
+Add component (AddParameter): Name = "Assembly Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreatedBy/Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GRAMS Lib Spec"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://optoelectronics.liteon.com/upload/download/DS70-2001-010/LTV-356T%20series%20Rev.P.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Magnetic Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number #2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CDCE_CLKP_200MHz Pin=C175-1
+Added Pin To Net: NetName=NetC175_2 Pin=C175-2
+Added Pin To Net: NetName=CDCE_CLKN_200MHz Pin=C176-1
+Added Pin To Net: NetName=NetC176_2 Pin=C176-2
+Added Pin To Net: NetName=NetC177_1 Pin=C177-1
+Added Pin To Net: NetName=NetC177_2 Pin=C177-2
+Added Pin To Net: NetName=GND Pin=C178-1
+Added Pin To Net: NetName=VCM_ADC Pin=C178-2
+Added Pin To Net: NetName=NetC179_1 Pin=C179-1
+Added Pin To Net: NetName=NetC179_2 Pin=C179-2
+Added Pin To Net: NetName=GND Pin=C180-1
+Added Pin To Net: NetName=5VP Pin=C180-2
+Added Pin To Net: NetName=GND Pin=C181-1
+Added Pin To Net: NetName=5VP Pin=C181-2
+Added Pin To Net: NetName=GND Pin=C182-1
+Added Pin To Net: NetName=5VP Pin=C182-2
+Added Pin To Net: NetName=GND Pin=C183-1
+Added Pin To Net: NetName=5VP Pin=C183-2
+Added Pin To Net: NetName=GND Pin=C184-1
+Added Pin To Net: NetName=5VP Pin=C184-2
+Added Pin To Net: NetName=GND Pin=C185-1
+Added Pin To Net: NetName=5VP Pin=C185-2
+Added Pin To Net: NetName=GND Pin=C186-1
+Added Pin To Net: NetName=5VP Pin=C186-2
+Added Pin To Net: NetName=GND Pin=C187-1
+Added Pin To Net: NetName=5VP Pin=C187-2
+Added Pin To Net: NetName=GND Pin=C188-1
+Added Pin To Net: NetName=5VP Pin=C188-2
+Added Pin To Net: NetName=GND Pin=C189-1
+Added Pin To Net: NetName=1V8D Pin=C189-2
+Added Pin To Net: NetName=GND Pin=C190-1
+Added Pin To Net: NetName=1V8D Pin=C190-2
+Added Pin To Net: NetName=GND Pin=C191-1
+Added Pin To Net: NetName=1V8D Pin=C191-2
+Added Pin To Net: NetName=GND Pin=C192-1
+Added Pin To Net: NetName=1V8D Pin=C192-2
+Added Pin To Net: NetName=GND Pin=C193-1
+Added Pin To Net: NetName=1V8D Pin=C193-2
+Added Pin To Net: NetName=GND Pin=C194-1
+Added Pin To Net: NetName=1V8D Pin=C194-2
+Added Pin To Net: NetName=GND Pin=C195-1
+Added Pin To Net: NetName=1V8D Pin=C195-2
+Added Pin To Net: NetName=5VN Pin=C196-1
+Added Pin To Net: NetName=GND Pin=C196-2
+Added Pin To Net: NetName=5VN Pin=C197-1
+Added Pin To Net: NetName=GND Pin=C197-2
+Added Pin To Net: NetName=5VN Pin=C198-1
+Added Pin To Net: NetName=GND Pin=C198-2
+Added Pin To Net: NetName=5VN Pin=C199-1
+Added Pin To Net: NetName=GND Pin=C199-2
+Added Pin To Net: NetName=5VN Pin=C200-1
+Added Pin To Net: NetName=GND Pin=C200-2
+Added Pin To Net: NetName=5VN Pin=C201-1
+Added Pin To Net: NetName=GND Pin=C201-2
+Added Pin To Net: NetName=5VN Pin=C202-1
+Added Pin To Net: NetName=GND Pin=C202-2
+Added Pin To Net: NetName=5VN Pin=C203-1
+Added Pin To Net: NetName=GND Pin=C203-2
+Added Pin To Net: NetName=GND Pin=C204-1
+Added Pin To Net: NetName=3V3A Pin=C204-2
+Added Pin To Net: NetName=GND Pin=C205-1
+Added Pin To Net: NetName=3V3A Pin=C205-2
+Added Pin To Net: NetName=GND Pin=C206-1
+Added Pin To Net: NetName=3V3A Pin=C206-2
+Added Pin To Net: NetName=GND Pin=C207-1
+Added Pin To Net: NetName=3V3A Pin=C207-2
+Added Pin To Net: NetName=GND Pin=C208-1
+Added Pin To Net: NetName=3V3A Pin=C208-2
+Added Pin To Net: NetName=GND Pin=C209-1
+Added Pin To Net: NetName=3V3A Pin=C209-2
+Added Pin To Net: NetName=NetL6_1 Pin=L6-1
+Added Pin To Net: NetName=NetC148_2 Pin=L6-2
+Added Pin To Net: NetName=NetL7_1 Pin=L7-1
+Added Pin To Net: NetName=NetC148_1 Pin=L7-2
+Added Pin To Net: NetName=NetL8_1 Pin=L8-1
+Added Pin To Net: NetName=NetC151_2 Pin=L8-2
+Added Pin To Net: NetName=NetL9_1 Pin=L9-1
+Added Pin To Net: NetName=NetC151_1 Pin=L9-2
+Added Pin To Net: NetName=NetL10_1 Pin=L10-1
+Added Pin To Net: NetName=NetC177_2 Pin=L10-2
+Added Pin To Net: NetName=NetL11_1 Pin=L11-1
+Added Pin To Net: NetName=NetC177_1 Pin=L11-2
+Added Pin To Net: NetName=NetL12_1 Pin=L12-1
+Added Pin To Net: NetName=NetC179_2 Pin=L12-2
+Added Pin To Net: NetName=NetL13_1 Pin=L13-1
+Added Pin To Net: NetName=NetC179_1 Pin=L13-2
+Added Pin To Net: NetName=NetR92_1 Pin=R92-1
+Added Pin To Net: NetName=NetR92_2 Pin=R92-2
+Added Pin To Net: NetName=CDCE_CLKN_200MHz Pin=R93-1
+Added Pin To Net: NetName=CDCE_CLKP_200MHz Pin=R93-2
+Added Pin To Net: NetName=NetR92_2 Pin=R94-1
+Added Pin To Net: NetName=ADC_1 Pin=R94-2
+Added Pin To Net: NetName=NetR95_1 Pin=R95-1
+Added Pin To Net: NetName=GND Pin=R95-2
+Added Pin To Net: NetName=NetR96_1 Pin=R96-1
+Added Pin To Net: NetName=NetL10_1 Pin=R96-2
+Added Pin To Net: NetName=GND Pin=R97-1
+Added Pin To Net: NetName=ADC_1 Pin=R97-2
+Added Pin To Net: NetName=NetR98_1 Pin=R98-1
+Added Pin To Net: NetName=NetR95_1 Pin=R98-2
+Added Pin To Net: NetName=NetR99_1 Pin=R99-1
+Added Pin To Net: NetName=NetL11_1 Pin=R99-2
+Added Pin To Net: NetName=NetR100_1 Pin=R100-1
+Added Pin To Net: NetName=NetR100_2 Pin=R100-2
+Added Pin To Net: NetName=NetR100_2 Pin=R101-1
+Added Pin To Net: NetName=ADC_2 Pin=R101-2
+Added Pin To Net: NetName=NetR102_1 Pin=R102-1
+Added Pin To Net: NetName=GND Pin=R102-2
+Added Pin To Net: NetName=NetR103_1 Pin=R103-1
+Added Pin To Net: NetName=NetL12_1 Pin=R103-2
+Added Pin To Net: NetName=GND Pin=R104-1
+Added Pin To Net: NetName=ADC_2 Pin=R104-2
+Added Pin To Net: NetName=NetR105_1 Pin=R105-1
+Added Pin To Net: NetName=NetR102_1 Pin=R105-2
+Added Pin To Net: NetName=NetR106_1 Pin=R106-1
+Added Pin To Net: NetName=NetL13_1 Pin=R106-2
+Added Pin To Net: NetName=1V8D Pin=U1-1
+Added Pin To Net: NetName=1V8D Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=1V8D Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=NetC6_2 Pin=U1-7
+Added Pin To Net: NetName=NetR10_1 Pin=U1-8
+Added Pin To Net: NetName=1V5D Pin=U1-9
+Added Pin To Net: NetName=1V5D Pin=U1-10
+Add Pin To Net: Unknown Pin: Pin U1-
+Added Pin To Net: NetName=1V8D Pin=U19-1
+Added Pin To Net: NetName=ADS62_DB4N Pin=U19-2
+Added Pin To Net: NetName=ADS62_DB4P Pin=U19-3
+Added Pin To Net: NetName=ADS62_DB6N Pin=U19-4
+Added Pin To Net: NetName=ADS62_DB6P Pin=U19-5
+Added Pin To Net: NetName=ADS62_DB8N Pin=U19-6
+Added Pin To Net: NetName=ADS62_DB8P Pin=U19-7
+Added Pin To Net: NetName=ADS62_DB10N Pin=U19-8
+Added Pin To Net: NetName=ADS62_DB10P Pin=U19-9
+Added Pin To Net: NetName=ADS62_DB12N Pin=U19-10
+Added Pin To Net: NetName=ADS62_DB12P Pin=U19-11
+Added Pin To Net: NetName=ADS62_RESET Pin=U19-12
+Added Pin To Net: NetName=ADS62_SCLK Pin=U19-13
+Added Pin To Net: NetName=ADS62_SDATA Pin=U19-14
+Added Pin To Net: NetName=ADS62_SEN Pin=U19-15
+Added Pin To Net: NetName=3V3A Pin=U19-16
+Added Pin To Net: NetName=GND Pin=U19-17
+Added Pin To Net: NetName=GND Pin=U19-18
+Added Pin To Net: NetName=NetC179_2 Pin=U19-19
+Added Pin To Net: NetName=NetC179_1 Pin=U19-20
+Added Pin To Net: NetName=GND Pin=U19-21
+Added Pin To Net: NetName=VCM_ADC Pin=U19-23
+Added Pin To Net: NetName=GND Pin=U19-24
+Added Pin To Net: NetName=NetC175_2 Pin=U19-25
+Added Pin To Net: NetName=NetC176_2 Pin=U19-26
+Added Pin To Net: NetName=GND Pin=U19-27
+Added Pin To Net: NetName=GND Pin=U19-28
+Added Pin To Net: NetName=NetC177_2 Pin=U19-29
+Added Pin To Net: NetName=NetC177_1 Pin=U19-30
+Added Pin To Net: NetName=GND Pin=U19-31
+Added Pin To Net: NetName=GND Pin=U19-32
+Added Pin To Net: NetName=3V3A Pin=U19-33
+Added Pin To Net: NetName=3V3A Pin=U19-34
+Added Pin To Net: NetName=ADS62_CTRL1 Pin=U19-35
+Added Pin To Net: NetName=ADS62_CTRL2 Pin=U19-36
+Added Pin To Net: NetName=ADS62_CTRL3 Pin=U19-37
+Added Pin To Net: NetName=1V8D Pin=U19-38
+Added Pin To Net: NetName=GND Pin=U19-39
+Added Pin To Net: NetName=ADS62_DA0N Pin=U19-40
+Added Pin To Net: NetName=ADS62_DA0P Pin=U19-41
+Added Pin To Net: NetName=ADS62_DA2N Pin=U19-42
+Added Pin To Net: NetName=ADS62_DA2P Pin=U19-43
+Added Pin To Net: NetName=ADS62_DA4N Pin=U19-44
+Added Pin To Net: NetName=ADS62_DA4P Pin=U19-45
+Added Pin To Net: NetName=ADS62_DA6N Pin=U19-46
+Added Pin To Net: NetName=ADS62_DA6P Pin=U19-47
+Added Pin To Net: NetName=1V8D Pin=U19-48
+Added Pin To Net: NetName=GND Pin=U19-49
+Added Pin To Net: NetName=ADS62_DA8N Pin=U19-50
+Added Pin To Net: NetName=ADS62_DA8P Pin=U19-51
+Added Pin To Net: NetName=ADS62_DA10N Pin=U19-52
+Added Pin To Net: NetName=ADS62_DA10P Pin=U19-53
+Added Pin To Net: NetName=ADS62_DA12N Pin=U19-54
+Added Pin To Net: NetName=ADS62_DA12P Pin=U19-55
+Added Pin To Net: NetName=ADS62_CLKOUTM Pin=U19-56
+Added Pin To Net: NetName=ADS62_CLKOUTP Pin=U19-57
+Added Pin To Net: NetName=1V8D Pin=U19-58
+Added Pin To Net: NetName=GND Pin=U19-59
+Added Pin To Net: NetName=ADS62_DB0N Pin=U19-60
+Added Pin To Net: NetName=ADS62_DB0P Pin=U19-61
+Added Pin To Net: NetName=ADS62_DB2N Pin=U19-62
+Added Pin To Net: NetName=ADS62_DB2P Pin=U19-63
+Added Pin To Net: NetName=ADS62_SDOUT Pin=U19-64
+Added Pin To Net: NetName=GND Pin=U19-PAD
+Added Pin To Net: NetName=NetR95_1 Pin=U20-1
+Added Pin To Net: NetName=NetR98_1 Pin=U20-2
+Added Pin To Net: NetName=5VP Pin=U20-3
+Added Pin To Net: NetName=5VP Pin=U20-4
+Added Pin To Net: NetName=NetR100_1 Pin=U20-5
+Added Pin To Net: NetName=NetR100_2 Pin=U20-6
+Added Pin To Net: NetName=NetR102_1 Pin=U20-7
+Added Pin To Net: NetName=NetR105_1 Pin=U20-8
+Added Pin To Net: NetName=5VP Pin=U20-9
+Added Pin To Net: NetName=5VP Pin=U20-10
+Added Pin To Net: NetName=VCM_ADC Pin=U20-11
+Added Pin To Net: NetName=NetR106_1 Pin=U20-12
+Added Pin To Net: NetName=NetR103_1 Pin=U20-13
+Added Pin To Net: NetName=5VP Pin=U20-14
+Added Pin To Net: NetName=5VN Pin=U20-15
+Added Pin To Net: NetName=5VN Pin=U20-16
+Added Pin To Net: NetName=VCM_ADC Pin=U20-17
+Added Pin To Net: NetName=NetR99_1 Pin=U20-18
+Added Pin To Net: NetName=NetR96_1 Pin=U20-19
+Added Pin To Net: NetName=5VP Pin=U20-20
+Added Pin To Net: NetName=5VN Pin=U20-21
+Added Pin To Net: NetName=5VN Pin=U20-22
+Added Pin To Net: NetName=NetR92_1 Pin=U20-23
+Added Pin To Net: NetName=NetR92_2 Pin=U20-24
+Added Pin To Net: NetName=FLASH_CS Pin=U22-1
+Added Pin To Net: NetName=NetR117_1 Pin=U22-2
+Added Pin To Net: NetName=3V3D Pin=U22-3
+Added Pin To Net: NetName=GND Pin=U22-4
+Added Pin To Net: NetName=FLASH_DQ0 Pin=U22-5
+Added Pin To Net: NetName=FLASH_C Pin=U22-6
+Added Pin To Net: NetName=3V3D Pin=U22-7
+Added Pin To Net: NetName=3V3D Pin=U22-8
+Added Pin To Net: NetName=VBUS_USB Pin=U23-1
+Added Pin To Net: NetName=NetR119_2 Pin=U23-2
+Added Pin To Net: NetName=NetR120_2 Pin=U23-3
+Added Pin To Net: NetName=5VD Pin=U23-4
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C175 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C176 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C177 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C178 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C179 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C180 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C181 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C182 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C183 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C184 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C185 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C186 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C187 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C188 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C189 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C190 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C191 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C192 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C193 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C194 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C195 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C196 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C197 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C198 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C199 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C200 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C201 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C202 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C203 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C204 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C205 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C206 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C207 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C208 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C209 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component L6 Inductor
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component L7 Inductor
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component L8 Inductor
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component L9 Inductor
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component L10 Inductor
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component L11 Inductor
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component L12 Inductor
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component L13 Inductor
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R92 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R93 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R94 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R95 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R96 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R97 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R98 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R99 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R100 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R101 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R102 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R103 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R104 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R105 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R106 RES - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ArbreAlimentation Member=Component U1 MIC61300
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component U19 ADS62P48IRGCT
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component U20 ADA4927-2YCPZ-R2
+Added Member To Class: ClassName=PROB_S7CAS_FLASH-JTAG Member=Component U22 N25Q032A13ESC40F
+Added Member To Class: ClassName=PROB_S7CAS_FLASH-JTAG Member=Component U23 LTV-356T
