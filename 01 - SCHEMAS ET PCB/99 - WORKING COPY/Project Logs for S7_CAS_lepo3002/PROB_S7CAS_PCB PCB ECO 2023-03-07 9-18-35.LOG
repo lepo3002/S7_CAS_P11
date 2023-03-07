@@ -1,0 +1,688 @@
+Change Component Designator: OldDesignator=C129 NewDesignator=C159
+Change Component Designator: OldDesignator=C130 NewDesignator=C160
+Change Component Designator: OldDesignator=C131 NewDesignator=C161
+Change Component Designator: OldDesignator=C132 NewDesignator=C162
+Change Component Designator: OldDesignator=C133 NewDesignator=C163
+Change Component Designator: OldDesignator=C134 NewDesignator=C164
+Change Component Designator: OldDesignator=C135 NewDesignator=C165
+Change Component Designator: OldDesignator=C136 NewDesignator=C166
+Change Component Designator: OldDesignator=C137 NewDesignator=C167
+Change Component Designator: OldDesignator=C138 NewDesignator=C168
+Change Component Designator: OldDesignator=C139 NewDesignator=C169
+Change Component Designator: OldDesignator=C140 NewDesignator=C170
+Change Component Designator: OldDesignator=C141 NewDesignator=C171
+Change Component Designator: OldDesignator=C142 NewDesignator=C172
+Change Component Designator: OldDesignator=C143 NewDesignator=C173
+Change Component Designator: OldDesignator=C144 NewDesignator=C174
+Change Component Designator: OldDesignator=C145 NewDesignator=C175
+Change Component Designator: OldDesignator=C146 NewDesignator=C176
+Change Component Designator: OldDesignator=C147 NewDesignator=C177
+Change Component Designator: OldDesignator=C148 NewDesignator=C178
+Change Component Designator: OldDesignator=C149 NewDesignator=C179
+Change Component Designator: OldDesignator=C150 NewDesignator=C180
+Change Component Designator: OldDesignator=C151 NewDesignator=C181
+Change Component Designator: OldDesignator=C152 NewDesignator=C182
+Change Component Designator: OldDesignator=C153 NewDesignator=C183
+Change Component Designator: OldDesignator=C154 NewDesignator=C184
+Change Component Designator: OldDesignator=C155 NewDesignator=C185
+Change Component Designator: OldDesignator=C156 NewDesignator=C186
+Change Component Designator: OldDesignator=C157 NewDesignator=C187
+Change Component Designator: OldDesignator=C158 NewDesignator=C188
+Change Component Designator: OldDesignator=C159 NewDesignator=C189
+Change Component Designator: OldDesignator=C160 NewDesignator=C190
+Change Component Designator: OldDesignator=C161 NewDesignator=C191
+Change Component Designator: OldDesignator=C162 NewDesignator=C192
+Change Component Designator: OldDesignator=C163 NewDesignator=C193
+Change Component Designator: OldDesignator=C164 NewDesignator=C194
+Change Component Designator: OldDesignator=C165 NewDesignator=C195
+Change Component Designator: OldDesignator=C166 NewDesignator=C196
+Change Component Designator: OldDesignator=C167 NewDesignator=C197
+Change Component Designator: OldDesignator=C168 NewDesignator=C198
+Change Component Designator: OldDesignator=C169 NewDesignator=C199
+Change Component Designator: OldDesignator=C170 NewDesignator=C200
+Change Component Designator: OldDesignator=C171 NewDesignator=C201
+Change Component Designator: OldDesignator=C172 NewDesignator=C202
+Change Component Designator: OldDesignator=C173 NewDesignator=C203
+Change Component Designator: OldDesignator=C174 NewDesignator=C204
+Change Component Designator: OldDesignator=C175 NewDesignator=C205
+Change Component Designator: OldDesignator=C176 NewDesignator=C206
+Change Component Designator: OldDesignator=C177 NewDesignator=C207
+Change Component Designator: OldDesignator=C178 NewDesignator=C208
+Change Component Designator: OldDesignator=C179 NewDesignator=C209
+Change Component Designator: OldDesignator=C180 NewDesignator=C210
+Change Component Designator: OldDesignator=C181 NewDesignator=C211
+Change Component Designator: OldDesignator=C182 NewDesignator=C212
+Change Component Designator: OldDesignator=C183 NewDesignator=C213
+Change Component Designator: OldDesignator=C184 NewDesignator=C214
+Change Component Designator: OldDesignator=C185 NewDesignator=C215
+Change Component Designator: OldDesignator=C186 NewDesignator=C216
+Change Component Designator: OldDesignator=C187 NewDesignator=C217
+Change Component Designator: OldDesignator=C188 NewDesignator=C218
+Change Component Designator: OldDesignator=C189 NewDesignator=C219
+Change Component Designator: OldDesignator=C190 NewDesignator=C220
+Change Component Designator: OldDesignator=C191 NewDesignator=C221
+Change Component Designator: OldDesignator=C192 NewDesignator=C222
+Change Component Designator: OldDesignator=C193 NewDesignator=C223
+Change Component Designator: OldDesignator=C194 NewDesignator=C224
+Change Component Designator: OldDesignator=C195 NewDesignator=C225
+Change Component Designator: OldDesignator=C196 NewDesignator=C226
+Change Component Designator: OldDesignator=C197 NewDesignator=C227
+Change Component Designator: OldDesignator=C198 NewDesignator=C228
+Change Component Designator: OldDesignator=C199 NewDesignator=C229
+Change Component Designator: OldDesignator=C200 NewDesignator=C230
+Change Component Designator: OldDesignator=C201 NewDesignator=C231
+Change Component Designator: OldDesignator=C202 NewDesignator=C232
+Change Component Designator: OldDesignator=C203 NewDesignator=C233
+Change Component Designator: OldDesignator=C204 NewDesignator=C234
+Change Component Designator: OldDesignator=C205 NewDesignator=C235
+Change Component Designator: OldDesignator=C206 NewDesignator=C236
+Change Component Designator: OldDesignator=C207 NewDesignator=C237
+Change Component Designator: OldDesignator=C208 NewDesignator=C238
+Change Component Designator: OldDesignator=C209 NewDesignator=C239
+Change Component Designator: OldDesignator=C210 NewDesignator=C240
+Change Component Designator: OldDesignator=C211 NewDesignator=C241
+Change Component Designator: OldDesignator=C212 NewDesignator=C242
+Change Component Designator: OldDesignator=C213 NewDesignator=C243
+Change Component Designator: OldDesignator=C214 NewDesignator=C244
+Change Component Designator: OldDesignator=C215 NewDesignator=C245
+Change Component Designator: OldDesignator=C216 NewDesignator=C246
+Change Component Designator: OldDesignator=C217 NewDesignator=C247
+Change Component Designator: OldDesignator=C218 NewDesignator=C248
+Change Component Designator: OldDesignator=C219 NewDesignator=C249
+Change Component Designator: OldDesignator=C220 NewDesignator=C250
+Change Component Designator: OldDesignator=C221 NewDesignator=C251
+Change Component Designator: OldDesignator=C222 NewDesignator=C252
+Change Component Designator: OldDesignator=C223 NewDesignator=C253
+Change Component Designator: OldDesignator=C224 NewDesignator=C254
+Change Component Designator: OldDesignator=C225 NewDesignator=C255
+Change Component Designator: OldDesignator=C226 NewDesignator=C256
+Change Component Designator: OldDesignator=C227 NewDesignator=C257
+Change Component Designator: OldDesignator=C228 NewDesignator=C258
+Change Component Designator: OldDesignator=C229 NewDesignator=C259
+Change Component Designator: OldDesignator=C230 NewDesignator=C260
+Change Component Designator: OldDesignator=R96 NewDesignator=R97
+Change Component Designator: OldDesignator=R97 NewDesignator=R96
+Added Component: Designator=C129(CAP_1206)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C130(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C131(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C132(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C133(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C134(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C135(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C136(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C137(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C138(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C139(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C140(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C141(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C142(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C143(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C144(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C145(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C146(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C147(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C148(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C149(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C150(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C151(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C152(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C153(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C154(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C155(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C156(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C157(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C158(CAP_0603)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Jonathan Bouchard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNameOK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfg Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NI"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VerifiedBy"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C129-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C129-2
+Added Pin To Net: NetName=GND Pin=C130-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C130-2
+Added Pin To Net: NetName=GND Pin=C131-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C131-2
+Added Pin To Net: NetName=GND Pin=C132-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C132-2
+Added Pin To Net: NetName=GND Pin=C133-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C133-2
+Added Pin To Net: NetName=GND Pin=C134-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C134-2
+Added Pin To Net: NetName=GND Pin=C135-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C135-2
+Added Pin To Net: NetName=GND Pin=C136-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C136-2
+Added Pin To Net: NetName=GND Pin=C137-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C137-2
+Added Pin To Net: NetName=GND Pin=C138-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C138-2
+Added Pin To Net: NetName=GND Pin=C139-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C139-2
+Added Pin To Net: NetName=GND Pin=C140-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C140-2
+Added Pin To Net: NetName=GND Pin=C141-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C141-2
+Added Pin To Net: NetName=GND Pin=C142-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C142-2
+Added Pin To Net: NetName=GND Pin=C143-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C143-2
+Added Pin To Net: NetName=GND Pin=C144-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C144-2
+Added Pin To Net: NetName=GND Pin=C145-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C145-2
+Added Pin To Net: NetName=GND Pin=C146-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C146-2
+Added Pin To Net: NetName=GND Pin=C147-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C147-2
+Added Pin To Net: NetName=GND Pin=C148-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C148-2
+Added Pin To Net: NetName=GND Pin=C149-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C149-2
+Added Pin To Net: NetName=GND Pin=C150-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C150-2
+Added Pin To Net: NetName=GND Pin=C151-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C151-2
+Added Pin To Net: NetName=GND Pin=C152-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C152-2
+Added Pin To Net: NetName=GND Pin=C153-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C153-2
+Added Pin To Net: NetName=GND Pin=C154-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C154-2
+Added Pin To Net: NetName=GND Pin=C155-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C155-2
+Added Pin To Net: NetName=GND Pin=C156-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C156-2
+Added Pin To Net: NetName=GND Pin=C157-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C157-2
+Added Pin To Net: NetName=GND Pin=C158-1
+Added Pin To Net: NetName=DDR3_VTT Pin=C158-2
+Add Pin To Net: Unknown Pin: Pin U1-
+Change Net Name : Old Net Name=NetC147_2 New Net Name=NetC177_2
+Change Net Name : Old Net Name=NetC148_1 New Net Name=NetC178_1
+Change Net Name : Old Net Name=NetC148_2 New Net Name=NetC178_2
+Change Net Name : Old Net Name=NetC149_2 New Net Name=NetC179_2
+Change Net Name : Old Net Name=NetC150_2 New Net Name=NetC180_2
+Change Net Name : Old Net Name=NetC151_1 New Net Name=NetC181_1
+Change Net Name : Old Net Name=NetC151_2 New Net Name=NetC181_2
+Change Net Name : Old Net Name=NetC175_2 New Net Name=NetC205_2
+Change Net Name : Old Net Name=NetC176_2 New Net Name=NetC206_2
+Change Net Name : Old Net Name=NetC177_1 New Net Name=NetC207_1
+Change Net Name : Old Net Name=NetC177_2 New Net Name=NetC207_2
+Change Net Name : Old Net Name=NetC179_1 New Net Name=NetC209_1
+Change Net Name : Old Net Name=NetC179_2 New Net Name=NetC209_2
+Change Net Name : Old Net Name=NetC211_2 New Net Name=NetC241_2
+Change Net Name : Old Net Name=NetC212_1 New Net Name=NetC242_1
+Change Net Name : Old Net Name=NetC213_1 New Net Name=NetC243_1
+Change Net Name : Old Net Name=NetC213_2 New Net Name=NetC243_2
+Change Net Name : Old Net Name=NetC214_2 New Net Name=NetC244_2
+Change Net Name : Old Net Name=NetC215_2 New Net Name=NetC245_2
+Change Net Name : Old Net Name=NetC216_2 New Net Name=NetC246_2
+Change Net Name : Old Net Name=NetC228_2 New Net Name=NetC258_2
+Change Net Name : Old Net Name=NetR96_1 New Net Name=NetR97_1
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C140 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C141 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C142 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C143 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C144 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C145 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C146 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C147 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C148 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C149 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C150 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C151 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C152 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C153 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C154 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C155 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C156 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C157 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C158 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C159 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C160 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C161 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C162 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C163 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C164 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C165 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C166 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C167 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C168 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C169 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_Title Member=Component FID1 FID 1MM
+Added Member To Class: ClassName=PROB_S7CAS_Title Member=Component FID2 FID 1MM
+Added Member To Class: ClassName=PROB_S7CAS_Title Member=Component FID3 FID 1MM
+Added Member To Class: ClassName=PROB_S7CAS_Title Member=Component MTH1 M3
+Added Member To Class: ClassName=PROB_S7CAS_Title Member=Component MTH2 M3
+Added Member To Class: ClassName=PROB_S7CAS_Title Member=Component MTH3 M3
+Added Member To Class: ClassName=PROB_S7CAS_Title Member=Component MTH4 M3
+Added Room: Name=PROB_S7CAS_ADC
+Added Room: Name=PROB_S7CAS_ArbreAlimentation
+Added Room: Name=PROB_S7CAS_Clock
+Added Room: Name=PROB_S7CAS_Connectors
+Added Room: Name=PROB_S7CAS_DAC
+Added Room: Name=PROB_S7CAS_DDR
+Added Room: Name=PROB_S7CAS_FLASH-JTAG
+Added Room: Name=PROB_S7CAS_FPGA_1
+Added Room: Name=PROB_S7CAS_FPGA_2
+Added Room: Name=PROB_S7CAS_FPGA_3
+Added Room: Name=PROB_S7CAS_INTERFACE
+Added Room: Name=PROB_S7CAS_MOTDRIVER
+Added Room: Name=PROB_S7CAS_PHY
+Added Room: Name=PROB_S7CAS_Title
