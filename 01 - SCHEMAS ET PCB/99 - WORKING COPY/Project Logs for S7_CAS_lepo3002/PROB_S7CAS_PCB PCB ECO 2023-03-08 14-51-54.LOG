@@ -1,0 +1,170 @@
+Removed Pin From Net: NetName=3V3DDR Pin=C34-1
+Removed Pin From Net: NetName=3V3DDR Pin=C35-2
+Removed Pin From Net: NetName=3V3DDR Pin=C36-2
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C176
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C180
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C182
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C184
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C186
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C188
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C190
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C192
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C194
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C196
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C198
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C200
+Removed Member From Class: ClassName=PROB_S7CAS_PHY Member=C200
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C202
+Removed Member From Class: ClassName=PROB_S7CAS_PHY Member=C202
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C204
+Removed Member From Class: ClassName=PROB_S7CAS_PHY Member=C204
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C208
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C208
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C231
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C231
+Removed Member From Class: ClassName=PROB_S7CAS_PHY Member=C231
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C233
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C233
+Removed Member From Class: ClassName=PROB_S7CAS_PHY Member=C233
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C235
+Removed Member From Class: ClassName=PROB_S7CAS_PHY Member=C235
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C237
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C237
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C239
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C239
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C240
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C241
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C241
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C241
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C242
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C243
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C243
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C243
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C244
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C245
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C245
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C245
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C246
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C247
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C247
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C247
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C248
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C249
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C249
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C249
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C250
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C251
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C251
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C251
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C252
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C253
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C253
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C253
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C254
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C255
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C255
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C255
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C256
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C257
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C257
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C257
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C258
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C259
+Removed Member From Class: ClassName=PROB_S7CAS_DAC Member=C259
+Removed Member From Class: ClassName=PROB_S7CAS_DDR Member=C259
+Removed Member From Class: ClassName=PROB_S7CAS_ADC Member=C260
+Added Pin To Net: NetName=24V Pin=C34-1
+Added Pin To Net: NetName=24V Pin=C35-2
+Added Pin To Net: NetName=24V Pin=C36-2
+Add Pin To Net: Unknown Pin: Pin U1-
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C129 CAP - 1206
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C130 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C131 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C132 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C133 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C134 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C135 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C136 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C137 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C138 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C139 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C140 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C141 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C142 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C143 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C144 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C145 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C146 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C147 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C148 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C149 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C150 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C151 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C152 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C153 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C154 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C155 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C156 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C157 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C158 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C159 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C160 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C161 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C162 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C163 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C164 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C165 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C166 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C167 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C168 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DDR Member=Component C169 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_PHY Member=Component C170 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_PHY Member=Component C171 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_PHY Member=Component C172 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_PHY Member=Component C173 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_PHY Member=Component C174 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_PHY Member=Component C175 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C177 CAP - 0603
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C178 CAP - 0201
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C179 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C181 CAP - 0201
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C183 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C185 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C187 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C189 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C191 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C193 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C195 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C197 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C199 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C201 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_DAC Member=Component C203 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C205 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C206 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C207 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C209 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C210 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C211 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C212 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C213 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C214 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C215 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C216 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C217 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C218 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C219 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C220 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C221 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C222 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C223 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C224 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C225 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C226 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C227 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C228 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C229 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component C230 CAP - 0402
+Added Member To Class: ClassName=PROB_S7CAS_ADC Member=Component R97 RES - 0402
+Added Room: Name=PROB_S7CAS_DAC
+Added Room: Name=PROB_S7CAS_DDR
+Added Room: Name=PROB_S7CAS_PHY
