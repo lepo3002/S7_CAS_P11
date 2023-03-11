@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=3V3D Pin=C162-2
+Removed Pin From Net: NetName=3V3D Pin=C163-2
+Removed Pin From Net: NetName=3V3D Pin=C164-2
+Removed Pin From Net: NetName=3V3D Pin=C165-2
+Removed Pin From Net: NetName=3V3D Pin=C166-2
+Removed Pin From Net: NetName=3V3D Pin=C167-2
+Removed Pin From Net: NetName=3V3D Pin=C168-2
+Removed Pin From Net: NetName=3V3D Pin=C169-2
+Added Pin To Net: NetName=1V5D Pin=C162-2
+Added Pin To Net: NetName=1V5D Pin=C163-2
+Added Pin To Net: NetName=1V5D Pin=C164-2
+Added Pin To Net: NetName=1V5D Pin=C165-2
+Added Pin To Net: NetName=1V5D Pin=C166-2
+Added Pin To Net: NetName=1V5D Pin=C167-2
+Added Pin To Net: NetName=1V5D Pin=C168-2
+Added Pin To Net: NetName=1V5D Pin=C169-2
+Add Pin To Net: Unknown Pin: Pin U1-

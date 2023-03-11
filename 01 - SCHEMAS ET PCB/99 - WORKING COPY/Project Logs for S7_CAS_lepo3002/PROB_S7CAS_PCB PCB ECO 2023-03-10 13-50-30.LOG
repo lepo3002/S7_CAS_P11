@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=1V5D Pin=C128-2
+Removed Pin From Net: NetName=1V5D Pin=C160-2
+Removed Pin From Net: NetName=1V5D Pin=C161-2
+Removed Pin From Net: NetName=1V5D Pin=U15-6
+Added Pin To Net: NetName=DDR_VREF Pin=C128-2
+Added Pin To Net: NetName=DDR_VREF Pin=C160-2
+Added Pin To Net: NetName=DDR_VREF Pin=C161-2
+Add Pin To Net: Unknown Pin: Pin U1-
+Added Pin To Net: NetName=DDR_VREF Pin=U15-6
