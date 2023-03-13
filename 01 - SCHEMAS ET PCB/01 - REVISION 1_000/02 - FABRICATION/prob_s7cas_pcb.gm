@@ -1,0 +1,15 @@
+%FSTAX23Y23*%
+%MOIN*%
+%SFA1B1*%
+
+%IPPOS*%
+%ADD230C,0.001000*%
+%LNprob_s7cas_pcb-1*%
+%LPD*%
+G54D230*
+X0Y0D02*
+X0573D01*
+Y1063*
+X0*
+Y0*
+M02*

@@ -58,7 +58,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -75,7 +75,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -92,7 +92,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -109,7 +109,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -126,7 +126,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -143,7 +143,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -160,7 +160,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -177,7 +177,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -194,7 +194,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -211,7 +211,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -245,7 +245,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -262,7 +262,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -279,7 +279,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -296,7 +296,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -313,7 +313,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=14
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -390,6 +390,123 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCVOSCSV
+
+[Document21]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.G3
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.G4
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.G5
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.G6
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GP4
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GP5
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GP6
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GP7
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GP8
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for S7_CAS_lepo3002\PROB_S7CAS_PCB.REP
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Project_Date
@@ -705,72 +822,76 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
 OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=GNYTCPOA|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842753~1,16777218~1,16842755~1,16777219~1,16842756~1,16777222~1,16842757~1,16777223~1,16842759~1,16842760~1,16777220~1,16842761~1,16777221~1,16842762~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlotBoardProfile=True|PlotBoardProfileFileName=PROB_S7CAS_PCB.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=PROB_S7CAS_PCB.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair1_Backdrill=False|UncheckPlotDrillDrawingLayerPair1_Checked=False|UncheckPlotDrillDrawingLayerPair1_DrillType=Regular|UncheckPlotDrillDrawingLayerPair1_FileName=PROB_S7CAS_PCB.GD2|UncheckPlotDrillDrawingLayerPair1_HighLayer=Internal Plane 10|UncheckPlotDrillDrawingLayerPair1_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair2_Backdrill=False|UncheckPlotDrillDrawingLayerPair2_Checked=False|UncheckPlotDrillDrawingLayerPair2_DrillType=Regular|UncheckPlotDrillDrawingLayerPair2_FileName=PROB_S7CAS_PCB.GD3|UncheckPlotDrillDrawingLayerPair2_HighLayer=Mid Layer 4|UncheckPlotDrillDrawingLayerPair2_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair3_Backdrill=False|UncheckPlotDrillDrawingLayerPair3_Checked=False|UncheckPlotDrillDrawingLayerPair3_DrillType=Regular|UncheckPlotDrillDrawingLayerPair3_FileName=PROB_S7CAS_PCB.GD4|UncheckPlotDrillDrawingLayerPair3_HighLayer=Internal Plane 9|UncheckPlotDrillDrawingLayerPair3_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair4_Backdrill=False|UncheckPlotDrillDrawingLayerPair4_Checked=False|UncheckPlotDrillDrawingLayerPair4_DrillType=Regular|UncheckPlotDrillDrawingLayerPair4_FileName=PROB_S7CAS_PCB.GD5|UncheckPlotDrillDrawingLayerPair4_HighLayer=Mid Layer 3|UncheckPlotDrillDrawingLayerPair4_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair5_Backdrill=False|UncheckPlotDrillDrawingLayerPair5_Checked=False|UncheckPlotDrillDrawingLayerPair5_DrillType=Regular|UncheckPlotDrillDrawingLayerPair5_FileName=PROB_S7CAS_PCB.GD6|UncheckPlotDrillDrawingLayerPair5_HighLayer=Internal Plane 8|UncheckPlotDrillDrawingLayerPair5_LowLayer=Top Layer|UncheckPlotDrillDrawingLayerPair6_Backdrill=False|UncheckPlotDrillDrawingLayerPair6_Checked=False|UncheckPlotDrillDrawingLayerPair6_DrillType=Regular|UncheckPlotDrillDrawingLayerPair6_FileName=PROB_S7CAS_PCB.GD7|UncheckPlotDrillDrawingLayerPair6_HighLayer=Internal Plane 7|UncheckPlotDrillDrawingLayerPair6_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=PROB_S7CAS_PCB.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair1_Backdrill=False|UncheckPlotDrillGuideLayerPair1_Checked=False|UncheckPlotDrillGuideLayerPair1_DrillType=Regular|UncheckPlotDrillGuideLayerPair1_FileName=PROB_S7CAS_PCB.GG2|UncheckPlotDrillGuideLayerPair1_HighLayer=Internal Plane 10|UncheckPlotDrillGuideLayerPair1_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair2_Backdrill=False|UncheckPlotDrillGuideLayerPair2_Checked=False|UncheckPlotDrillGuideLayerPair2_DrillType=Regular|UncheckPlotDrillGuideLayerPair2_FileName=PROB_S7CAS_PCB.GG3|UncheckPlotDrillGuideLayerPair2_HighLayer=Mid Layer 4|UncheckPlotDrillGuideLayerPair2_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair3_Backdrill=False|UncheckPlotDrillGuideLayerPair3_Checked=False|UncheckPlotDrillGuideLayerPair3_DrillType=Regular|UncheckPlotDrillGuideLayerPair3_FileName=PROB_S7CAS_PCB.GG4|UncheckPlotDrillGuideLayerPair3_HighLayer=Internal Plane 9|UncheckPlotDrillGuideLayerPair3_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair4_Backdrill=False|UncheckPlotDrillGuideLayerPair4_Checked=False|UncheckPlotDrillGuideLayerPair4_DrillType=Regular|UncheckPlotDrillGuideLayerPair4_FileName=PROB_S7CAS_PCB.GG5|UncheckPlotDrillGuideLayerPair4_HighLayer=Mid Layer 3|UncheckPlotDrillGuideLayerPair4_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair5_Backdrill=False|UncheckPlotDrillGuideLayerPair5_Checked=False|UncheckPlotDrillGuideLayerPair5_DrillType=Regular|UncheckPlotDrillGuideLayerPair5_FileName=PROB_S7CAS_PCB.GG6|UncheckPlotDrillGuideLayerPair5_HighLayer=Internal Plane 8|UncheckPlotDrillGuideLayerPair5_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair6_Backdrill=False|UncheckPlotDrillGuideLayerPair6_Checked=False|UncheckPlotDrillGuideLayerPair6_DrillType=Regular|UncheckPlotDrillGuideLayerPair6_FileName=PROB_S7CAS_PCB.GG7|UncheckPlotDrillGuideLayerPair6_HighLayer=Internal Plane 7|UncheckPlotDrillGuideLayerPair6_LowLayer=Top Layer|UserLayerName.Caption0=PROB_S7CAS_PCB.GP6|UserLayerName.Caption1=PROB_S7CAS_PCB.GTP|UserLayerName.Caption10=PROB_S7CAS_PCB.G1|UserLayerName.Caption11=PROB_S7CAS_PCB.GP8|UserLayerName.Caption12=PROB_S7CAS_PCB.GBS|UserLayerName.Caption13=PROB_S7CAS_PCB.GP4|UserLayerName.Caption14=PROB_S7CAS_PCB.G2|UserLayerName.Caption15=PROB_S7CAS_PCB.GM16|UserLayerName.Caption16=PROB_S7CAS_PCB.GP5|UserLayerName.Caption17=PROB_S7CAS_PCB.GBL|UserLayerName.Caption18=PROB_S7CAS_PCB.GM7|UserLayerName.Caption19=PROB_S7CAS_PCB.GM15|UserLayerName.Caption2=PROB_S7CAS_PCB.GTO|UserLayerName.Caption20=PROB_S7CAS_PCB.GM14|UserLayerName.Caption21=PROB_S7CAS_PCB.GM6|UserLayerName.Caption22=PROB_S7CAS_PCB.GM5|UserLayerName.Caption23=PROB_S7CAS_PCB.G4|UserLayerName.Caption24=PROB_S7CAS_PCB.GTL|UserLayerName.Caption25=PROB_S7CAS_PCB.GBO|UserLayerName.Caption26=PROB_S7CAS_PCB.GP2|UserLayerName.Caption27=PROB_S7CAS_PCB.GM13|UserLayerName.Caption28=PROB_S7CAS_PCB.GPT|UserLayerName.Caption29=PROB_S7CAS_PCB.GP1|UserLayerName.Caption3=PROB_S7CAS_PCB.GTS|UserLayerName.Caption30=PROB_S7CAS_PCB.GM9|UserLayerName.Caption31=PROB_S7CAS_PCB.GP7|UserLayerName.Caption32=PROB_S7CAS_PCB.G5|UserLayerName.Caption33=PROB_S7CAS_PCB.GM1|UserLayerName.Caption34=PROB_S7CAS_PCB.GM8|UserLayerName.Caption35=PROB_S7CAS_PCB.G6|UserLayerName.Caption36=PROB_S7CAS_PCB.GM3|UserLayerName.Caption37=PROB_S7CAS_PCB.GBP|UserLayerName.Caption4=PROB_S7CAS_PCB.G3|UserLayerName.Caption5=PROB_S7CAS_PCB.GM4|UserLayerName.Caption6=PROB_S7CAS_PCB.GM2|UserLayerName.Caption7=PROB_S7CAS_PCB.GP3|UserLayerName.Caption8=PROB_S7CAS_PCB.GKO|UserLayerName.Caption9=PROB_S7CAS_PCB.GPB|UserLayerName.Count=38|UserLayerName.Layer0=16842760|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16777218|UserLayerName.Layer11=16842762|UserLayerName.Layer12=16973835|UserLayerName.Layer13=16842757|UserLayerName.Layer14=16777219|UserLayerName.Layer15=16908304|UserLayerName.Layer16=16842759|UserLayerName.Layer17=16842751|UserLayerName.Layer18=16908295|UserLayerName.Layer19=16908303|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908302|UserLayerName.Layer21=16908294|UserLayerName.Layer22=16908293|UserLayerName.Layer23=16777223|UserLayerName.Layer24=16777217|UserLayerName.Layer25=16973831|UserLayerName.Layer26=16842755|UserLayerName.Layer27=16908301|UserLayerName.Layer28=16973848|UserLayerName.Layer29=16842753|UserLayerName.Layer3=16973834|UserLayerName.Layer30=16908297|UserLayerName.Layer31=16842761|UserLayerName.Layer32=16777220|UserLayerName.Layer33=16908289|UserLayerName.Layer34=16908296|UserLayerName.Layer35=16777221|UserLayerName.Layer36=16908291|UserLayerName.Layer37=16973833|UserLayerName.Layer4=16777222|UserLayerName.Layer5=16908292|UserLayerName.Layer6=16908290|UserLayerName.Layer7=16842756|UserLayerName.Layer8=16973837|UserLayerName.Layer9=16973849|DocumentPath=C:\Users\olivi\Documents\Altium\APP1\01 - SCHEMAS ET PCB\99 - WORKING COPY\PROB_S7CAS_PCB.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs

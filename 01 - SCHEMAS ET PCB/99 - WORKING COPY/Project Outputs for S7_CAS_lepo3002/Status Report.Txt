@@ -1,0 +1,34 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [S7_CAS_lepo3002.PrjPcb]
+   Generated File[PROB_S7CAS_PCB.GTO]
+   Generated File[PROB_S7CAS_PCB.GTP]
+   Generated File[PROB_S7CAS_PCB.GTS]
+   Generated File[PROB_S7CAS_PCB.GTL]
+   Generated File[PROB_S7CAS_PCB.GP1]
+   Generated File[PROB_S7CAS_PCB.G1]
+   Generated File[PROB_S7CAS_PCB.GP2]
+   Generated File[PROB_S7CAS_PCB.G2]
+   Generated File[PROB_S7CAS_PCB.GP3]
+   Generated File[PROB_S7CAS_PCB.G3]
+   Generated File[PROB_S7CAS_PCB.GP4]
+   Generated File[PROB_S7CAS_PCB.G4]
+   Generated File[PROB_S7CAS_PCB.GP5]
+   Generated File[PROB_S7CAS_PCB.GP6]
+   Generated File[PROB_S7CAS_PCB.G5]
+   Generated File[PROB_S7CAS_PCB.GP7]
+   Generated File[PROB_S7CAS_PCB.G6]
+   Generated File[PROB_S7CAS_PCB.GP8]
+   Generated File[PROB_S7CAS_PCB.GBL]
+   Generated File[PROB_S7CAS_PCB.GBS]
+   Generated File[PROB_S7CAS_PCB.GBP]
+   Generated File[PROB_S7CAS_PCB.GBO]
+   Generated File[PROB_S7CAS_PCB.GM]
+   Generated File[PROB_S7CAS_PCB.EXTREP]
+   Generated File[PROB_S7CAS_PCB.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 11:39:23 On 2023-03-13
