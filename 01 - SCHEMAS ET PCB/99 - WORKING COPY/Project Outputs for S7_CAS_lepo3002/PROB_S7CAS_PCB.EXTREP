@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PROB_S7CAS_PCB.GBR   2023-03-13  11:39:22
+Gerber File Extension Report For: PROB_S7CAS_PCB.GBR   2023-03-13  12:34:25
 ------------------------------------------------------------------------------------------
 
 
@@ -28,5 +28,32 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
+.GM16               Bottom Courtyard                        
+.GM15               Top Courtyard                           
+.GM14               Bottom 3D Models                        
+.GM13               Top 3D Models                           
+.GM9                Manufacturing Notes                     
+.GM8                Panel V-Grove                           
+.GM7                Route Tool Path                         
+.GM6                Panel Outline                           
+.GM5                Board Outline                           
+.GM4                Bottom Designators                      
+.GM3                Top Designators                         
+.GM2                Bottom Assembly                         
+.GM1                Top Assembly                            
+.GD1                Drill Drawing                           
+.GD5                Drill Drawing                           
+.GD3                Drill Drawing                           
+.GD7                Drill Drawing                           
+.GD6                Drill Drawing                           
+.GD4                Drill Drawing                           
+.GD2                Drill Drawing                           
+.GG1                Drill Guide                             
+.GG5                Drill Guide                             
+.GG3                Drill Guide                             
+.GG7                Drill Guide                             
+.GG6                Drill Guide                             
+.GG4                Drill Guide                             
+.GG2                Drill Guide                             
 .GM                 Profile                                 
 ------------------------------------------------------------------------------------------

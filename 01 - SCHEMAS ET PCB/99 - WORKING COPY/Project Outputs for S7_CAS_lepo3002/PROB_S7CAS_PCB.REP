@@ -2,6 +2,156 @@
 FileName = PROB_S7CAS_PCB.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Assembly
+      File : PROB_S7CAS_PCB.GM1
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D17
+    D18
+    D190
+    D231
+    D232
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : PROB_S7CAS_PCB.GM2
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Designators
+      File : PROB_S7CAS_PCB.GM3
+
+    Adding Layer      : Top Designators
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designators
+      File : PROB_S7CAS_PCB.GM4
+
+    Adding Layer      : Bottom Designators
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : PROB_S7CAS_PCB.GM5
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Panel Outline
+      File : PROB_S7CAS_PCB.GM6
+
+    Adding Layer      : Panel Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Route Tool Path
+      File : PROB_S7CAS_PCB.GM7
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Panel V-Grove
+      File : PROB_S7CAS_PCB.GM8
+
+    Adding Layer      : Panel V-Grove
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Manufacturing Notes
+      File : PROB_S7CAS_PCB.GM9
+
+    Adding Layer      : Manufacturing Notes
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Models
+      File : PROB_S7CAS_PCB.GM13
+
+    Adding Layer      : Top 3D Models
+
+
+Used DCodes :
+    D230
+    D231
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Models
+      File : PROB_S7CAS_PCB.GM14
+
+    Adding Layer      : Bottom 3D Models
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : PROB_S7CAS_PCB.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+    D14
+    D17
+    D18
+    D230
+    D231
+    D232
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : PROB_S7CAS_PCB.GM16
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : PROB_S7CAS_PCB.GBP
 
@@ -137,7 +287,7 @@ Generating : Top Solder
 
 Used DCodes :
     D31
-    D35
+    D36
     D94
     D95
     D96
@@ -304,13 +454,13 @@ Used DCodes :
     D193
     D210
     D214
-    D215
+    D216
     D217
     D218
     D219
     D220
-    D221
-    D223
+    D222
+    D224
     D225
     D226
     D227
@@ -359,13 +509,13 @@ Used DCodes :
     D193
     D210
     D214
-    D215
+    D216
     D217
     D218
     D219
     D220
-    D221
-    D223
+    D222
+    D224
     D225
     D226
     D227
@@ -414,13 +564,13 @@ Used DCodes :
     D193
     D210
     D214
-    D215
+    D216
     D217
     D218
     D219
     D220
-    D221
-    D223
+    D222
+    D224
     D225
     D226
     D227
@@ -454,7 +604,6 @@ Used DCodes :
     D223
     D224
     D225
-    D226
 *************************************************************
 
 *************************************************************
@@ -497,13 +646,13 @@ Used DCodes :
     D193
     D210
     D214
-    D215
+    D216
     D217
     D218
     D219
     D220
-    D221
-    D223
+    D222
+    D224
     D225
     D226
     D227
@@ -551,13 +700,13 @@ Used DCodes :
     D193
     D210
     D214
-    D215
+    D216
     D217
     D218
     D219
     D220
-    D221
-    D223
+    D222
+    D224
     D225
     D226
     D227
@@ -619,7 +768,6 @@ Used DCodes :
     D223
     D224
     D225
-    D226
 *************************************************************
 
 *************************************************************
@@ -676,7 +824,6 @@ Used DCodes :
     D223
     D224
     D225
-    D226
 *************************************************************
 
 *************************************************************
@@ -689,14 +836,14 @@ Generating : Top
 
 
 Used DCodes :
-    D10
     D11
+    D12
     D17
     D24
     D25
     D26
     D33
-    D35
+    D34
     D36
     D37
     D38
@@ -784,11 +931,183 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Drill Drawing
+      File : PROB_S7CAS_PCB.GD1
+
+    Adding Drill Pair : Top-Bottom
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D14
+    D190
+    D233
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PROB_S7CAS_PCB.GD5
+
+    Adding Drill Pair : Top-Data 3
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PROB_S7CAS_PCB.GD3
+
+    Adding Drill Pair : Top-Data 4
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PROB_S7CAS_PCB.GD7
+
+    Adding Drill Pair : Top-Ground Plane 5
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PROB_S7CAS_PCB.GD6
+
+    Adding Drill Pair : Top-Ground Plane 6
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PROB_S7CAS_PCB.GD4
+
+    Adding Drill Pair : Top-Ground Plane 7
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PROB_S7CAS_PCB.GD2
+
+    Adding Drill Pair : Top-Groud Plane 8
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PROB_S7CAS_PCB.GG1
+
+    Adding Drill Pair : Top-Bottom
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PROB_S7CAS_PCB.GG5
+
+    Adding Drill Pair : Top-Data 3
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PROB_S7CAS_PCB.GG3
+
+    Adding Drill Pair : Top-Data 4
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PROB_S7CAS_PCB.GG7
+
+    Adding Drill Pair : Top-Ground Plane 5
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PROB_S7CAS_PCB.GG6
+
+    Adding Drill Pair : Top-Ground Plane 6
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PROB_S7CAS_PCB.GG4
+
+    Adding Drill Pair : Top-Ground Plane 7
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PROB_S7CAS_PCB.GG2
+
+    Adding Drill Pair : Top-Groud Plane 8
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Profile
       File : PROB_S7CAS_PCB.GM
 
 
 Used DCodes :
-    D230
+    D234
 *************************************************************
 
